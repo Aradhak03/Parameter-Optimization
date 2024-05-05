@@ -13,4 +13,5 @@ Splitting the Dataset: The dataset is split into training and testing sets with 
 Optimizing SVM: SVM is optimized for each sample using cross-validation with 100 iterations. GridSearchCV is used to find the best hyperparameters.
 
 Recording Results: The best parameters and accuracies are recorded for each sample. The sample with maximum accuracy is identified.
+![Uploading Screenshot 2024-05-05 at 11.34.39 PM.png…]()
 
