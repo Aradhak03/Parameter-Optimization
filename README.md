@@ -21,15 +21,15 @@ Recording Results: The best parameters and accuracies are recorded for each samp
 <img width="856" alt="Screenshot 2024-05-05 at 11 37 49 PM" src="https://github.com/Aradhak03/Parameter-Optimization/assets/100716183/872f4eb4-151f-49a4-b946-7b4e28dd3c8e">
 
 ## Files Included
--dry_bean_data.csv: CSV file containing the Dry Bean dataset.
--parameter_optimization.ipynb: Jupyter Notebook containing the Python code for the project.
--README.md: This README file providing an overview of the project.
+dry_bean_data.csv: CSV file containing the Dry Bean dataset.
+parameter_optimization.ipynb: Jupyter Notebook containing the Python code for the project.
+README.md: This README file providing an overview of the project.
 
 ## Requirements
--Python 3.x
--Required libraries: pandas, scikit-learn, matplotlib
+Python 3.x
+Required libraries: pandas, scikit-learn, matplotlib
 
 ## Acknowledgments
--UCI Machine Learning Repository for providing the Dry Bean dataset.
--Scikit-learn and pandas libraries for their functionalities in data preprocessing and machine learning.
+UCI Machine Learning Repository for providing the Dry Bean dataset.
+Scikit-learn and pandas libraries for their functionalities in data preprocessing and machine learning.
 
